@@ -1,0 +1,6 @@
+{
+  "name": "ShweVoice AI - Myanmar TTS Studio",
+  "description": "High-fidelity Myanmar (Burmese) AI Text-to-Speech Studio powered by Gemini voice synthesis with natural tones, syllable segmentation, Zawgyi/Unicode support, and audio export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
